@@ -1,2 +1,2 @@
 # Welcome
-![binarytextimage(/binarytextimage.png)
+![binarytextimage](binarytextimage.png)
