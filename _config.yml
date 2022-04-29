@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Jamie Matthews
 description: Group Code JMWWW
+header_pages:
+  - Jamium/index.md
+  - about.md
