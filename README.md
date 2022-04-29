@@ -1,2 +1,1 @@
-# Jamie Matthews
-## Welcome
+# Welcome
